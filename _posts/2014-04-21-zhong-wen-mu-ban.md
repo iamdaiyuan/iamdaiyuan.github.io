@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farewell GitHub, Hello Immersive Computing
+title: 中文标题
 ---
 
 {{ page.title }}
