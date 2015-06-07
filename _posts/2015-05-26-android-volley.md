@@ -237,8 +237,3 @@ queue.addToRequestQueue(request);
 ```
 
 以上算是Volley的入门吧，在实际项目中，会遇到形形色色的坑，还需要大家多查资料多看源码，才能把这些坑填平。
-
-
---EOF--
-
-若无特别说明，本站文章均为原创，转载请保留[链接]({{http://iamdaiyuan.github.io/2015/03/21/yan-jiang-PPT-de-zhi-zuo.html}})！
