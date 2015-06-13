@@ -31,5 +31,6 @@ xxx是导出数据库的那个用户名。
 
 
 ```sql
-imp <username>/<password>@<dbname> fromuser=<xxx> touser=<yyy> file=\usr\local\<dump_file_name.dmp> ignore=y 
+imp <username>/<password>@<dbname> fromuser=<xxx> touser=<yyy> 
+file=\usr\local\<dump_file_name.dmp> ignore=y 
 ```
