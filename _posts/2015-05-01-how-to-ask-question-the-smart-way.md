@@ -9,6 +9,10 @@ title: 提问的智慧（转载）
 这篇文章在很久之前就看过，感觉很有必要反复阅读。所以，不厌其烦的将此文转帖过来。提醒自己要不时回顾。
 此文的翻译来自[这里](https://github.com/ryanhanwu/smartquestions)，是繁体字，我把它简单地转换成了简体。
 
+网上有人总结了一张图：
+
+![a](../../../images/001.jpeg)
+
 #提问的智慧
 
 **How To Ask Questions The Smart Way**
