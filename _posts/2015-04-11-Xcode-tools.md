@@ -32,7 +32,7 @@ println("Hello, World!")
 
 ## 片段的导入
 
-``` 
+```
 $ xcodesnippet install path/to/source.m
 ```
 
